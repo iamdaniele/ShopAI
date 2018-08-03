@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSCameraUsageDescription</key>
+    <string>So you can take a picture of what you want to shop for.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>So you can shop using pictures from your library.</string>
 </dict>
 </plist>
